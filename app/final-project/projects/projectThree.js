@@ -5,7 +5,7 @@ export default function ProjectThree() {
           <div className="flex justify-center font-bold text-gray-700 m-10 text-3xl">
             <p>Project Three</p>
           </div>
-          <div className="font-bold text-black m-10 text-xl">
+          <div className="font-bold text-black m-10 text-xl w-1/3">
             <img src={"/projectThree.png"} alt="project Three" />
           </div>
         </div>
