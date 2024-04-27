@@ -7,7 +7,7 @@ export default function ProjectOne() {
           <div className="flex justify-center font-bold text-gray-700 m-10 text-3xl">
             <p>Project One</p>
           </div>
-          <div className="font-bold text-black m-10 w-1/3">
+          <div className="font-bold text-black m-10">
             <img src={"/ProjectOne.png"} alt="project One" />           
           </div>
         </div>
