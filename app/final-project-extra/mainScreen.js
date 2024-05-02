@@ -82,7 +82,7 @@ export default function MainScreen () {
 
   const resetGame = () => {
     setScore(score + money);
-    setMoney(100);
+    setMoney(150);
     setGuessedLetters([]);
     setCorrectLetters([]);
     setIncorrectLetters([]);
